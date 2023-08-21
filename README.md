@@ -19,10 +19,21 @@
 - 🌱 I'm currently learning **Web development, Data science, English and Japanese**. 
 - 🤔 My hobbies are **singing, cooking and writing**.
 - 💬 If you have any questions, **just feel free to ask me**:blush:
+- 📫 How to reach me: joysitoruspane@gmail.com
 <br>
 
-<p align="Center"><b>Currently working with :</b></p>
-<div align="center">
+<p align="left"><b>Github Statistic</b></p>
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joysitorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joysitorus&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br>
+
+<p align="left"><b>Currently working with :</b></p>
+<div align="left">
   <a href="https://skills.thijs.gg">
     <img src="https://skills.thijs.gg/icons?i=java,python,javascript,nodejs,css,html,bootstrap,php,github,mysql,figma&theme=light" alt="My Skills">
   </a>
@@ -31,7 +42,7 @@
 <br>
 <br>
 
-<p align="Center"><b>Connect with me  on : </b></p>
-<p align="center">
+<p align="left"><b>Reach me  on : </b></p>
+<p align="left">
 <a href="https://www.linkedin.com/in/joysitoruspane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joysitorusp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
