@@ -19,7 +19,6 @@
 - 🌱 I'm currently learning **Web development, Data science, English and Japanese**. 
 - 🤔 My hobbies are **singing, cooking and writing**.
 - 💬 If you have any questions, **just feel free to ask me**:blush:
-- 📫 How to reach me: joysitoruspane@gmail.com
 <br>
 
 <p align="left"><b>Github Statistic</b></p>
@@ -46,3 +45,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/joysitoruspane" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="40" width="40" /></a>
 <a href="https://www.instagram.com/joysitorusp_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height="40" width="40" /></a>
+<a href="discordapp.com/users/671686179887775745" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" height="40" width="40" /></a>
+<a href="joysitoruspane@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" height="50" width="45" /></a>
