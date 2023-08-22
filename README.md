@@ -47,4 +47,5 @@
 <a href="https://www.instagram.com/joysitorusp_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/joysitoruspane" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" height="40" width="40" /></a>
 <a href="discordapp.com/users/671686179887775745" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/joysitoruspane" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226" height="40" width="38""/></a>
 <a href="mailto:joysitoruspane@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" height="50" width="45" /></a>
