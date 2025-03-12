@@ -17,7 +17,6 @@
 - 👨‍🏛 I am currently a student of **Lambung Mangkurat University**.
 - 💻 Major is **Computer Science**.
 - 🌱 I'm currently learning **Web development, Data science, English and Japanese**. 
-- 🤔 My hobbies are **singing, cooking and playing game**.
 - 💬 If you have any questions, **just feel free to ask me**:blush:
 <br>
 
