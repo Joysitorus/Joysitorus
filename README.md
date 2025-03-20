@@ -11,13 +11,7 @@
 </h1>
 
 <br>
-
-**Talking about My Personal Stuffs :**
-
-- 👨‍🏛 I am currently a student of **Lambung Mangkurat University**.
-- 💻 Major is **Computer Science**.
-- 🌱 I'm currently learning **Web development, Data science, English and Japanese**. 
-- 💬 If you have any questions, **just feel free to ask me**:blush:
+Experienced backend developer with formal education in computer science. I have approximately 1 years of experience implementing backend solutions for web applications using Javascript and Python, including cloud service integration (GCP). I am skilled in building RESTful APIs, integrating database systems, and optimizing application performance. I have a good understanding of microservices architecture, scalable application development, and cross-team collaboration using Agile/Scrum. I proactively contribute to end-to-end projects, focusing on efficient solutions and maintainable code.
 <br>
 
 <p align="left"><b>Github Statistic</b></p>
